@@ -5,3 +5,5 @@
 [开发板的启动配置方式](https://blog.csdn.net/qimoDIY/article/details/86768015)
 
 [时序约束到底是要干嘛？](https://mp.weixin.qq.com/s/3WoAO4aHYTqTWLTnF56zMA)
+
+[ZYNQ学习：GPIO、MIO、EMIO的区别](https://blog.csdn.net/v13910/article/details/83504327)
