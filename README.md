@@ -9,3 +9,5 @@
 [ZYNQ学习：GPIO、MIO、EMIO的区别](https://blog.csdn.net/v13910/article/details/83504327)
 
 [Xilinx vitis学习教程：ZYNQ之Hello world（1）](https://blog.csdn.net/longfei_3/article/details/103757018)
+
+[pynq-z2 HLS开发](https://blog.csdn.net/qq_38769280/article/details/84205105)
